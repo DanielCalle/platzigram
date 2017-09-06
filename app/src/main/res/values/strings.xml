@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="dont_have_account">Do you mot have an account?</string>
+    <string name="create_here">Create Account</string>
+</resources>
